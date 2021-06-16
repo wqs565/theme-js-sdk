@@ -2,6 +2,7 @@
 
 ThemeJSDK Element-UI 主题色变更的二次封装，一键修改 Element-UI 主题色
 
+地址：[theme-js-sdk](https://github.com/wqs565/theme-js-sdk)
 ## 功能
 
 一键修改 Element-UI 主题色，方便使用
