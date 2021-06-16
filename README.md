@@ -9,7 +9,9 @@ ThemeJSDK Element-UI 主题色变更的二次封装，一键修改 Element-UI �
 ## 如何使用
 
 ``` js
-yarn add theme-js-sdk
+yarn add theme-js-sdk 
+or
+npm install theme-js-sdk
 
 // 引入
 import ThemeJSDK from 'theme-js-sdk'
